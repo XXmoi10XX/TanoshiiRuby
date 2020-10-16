@@ -1,1 +1,1 @@
-# TanoshiiRuby
+# たのしいRuby
